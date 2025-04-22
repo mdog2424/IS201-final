@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.hero {
+  height: 400px;
+  /* Adjust height as needed */
+  background: url("../assets/img/Ravens-Chiefs-Football_111528895-e1725586905533.webp")
+    center/cover no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+.hero h1 {
+  font-size: 3rem;
+  /* Adjust font size as needed */
+  background: rgba(0, 0, 0, 0.5);
+  /* Optional: Add a semi-transparent background for readability */
+  padding: 0.5em 1em;
+  border-radius: 5px;
+  /* Optional: Rounded corners */
+}
+
+.intro {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  padding: 10px;
+  margin: 20px;
+  color: #333;
+}
+#football {
+  font-size: medium;
+  color: #334;
+  float: left;
+  padding: 5px;
+  margin: 10px;
+}
+.chieflogo {
+  display: flex;
+  align-content: center;
+  align-self: center;
+  margin: 0 auto; /* Center horizontally */
+}
+
+h2 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: red;
+  text-align: center;
+  padding: 20px;
+  padding-top: 0px;
+  margin: 20px;
+  margin-top: 0px;
+}
+.tableauPlaceholder {
+  margin: 30px;
+  padding: 30px;
+  margin-top: 0px;
+  padding-top: 10px;
+}
+body {
+  background-color: white;
+}
